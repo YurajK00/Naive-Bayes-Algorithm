@@ -5,7 +5,7 @@
 The overall goal of this exercise is to get some hands-on experience with building a machine learning model on a real-world task. The task is to implement an improved version of the Naive Bayes algorithm that is able to predict the category of points of interest - one of "Restaurants", "Shopping" and "Nightlife"- from the Yelp Dataset and subsequently, 
 apply the implementation on atest with no class label and hand in the predictions of the model. 
 A competition hosted on <a href = "https://www.kaggle.com/competitions/2024-cs762-point-of-interest-categorization/overview">Kaggle</a> provides a system 
-that evaluates the results with the ground-truth and report the accuracy of the implementation</p>
+that evaluates the results with the ground-truth and report the accuracy of the implementation.</p>
 
 
 <h2 align = "left"> The Competition:</h2>
